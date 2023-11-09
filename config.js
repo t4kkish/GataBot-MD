@@ -113,8 +113,9 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = ""
+global.author = "ㅤ 
+ㅤㅤᅟ ( _ _ #)ㅤㅤ｡ㅤㅤYoshιㅤㅤ‧ㅤㅤ♡ㅤㅤ🍓|ㅤㅤ"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
